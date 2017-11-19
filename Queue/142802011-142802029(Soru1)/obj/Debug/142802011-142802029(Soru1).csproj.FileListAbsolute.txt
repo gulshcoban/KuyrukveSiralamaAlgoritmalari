@@ -1,0 +1,21 @@
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\bin\Debug\142802011-142802029(Soru1).exe.config
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\bin\Debug\142802011-142802029(Soru1).exe
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\bin\Debug\142802011-142802029(Soru1).pdb
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\obj\Debug\_142802011_142802029_Soru1_.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).exe
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).pdb
+C:\Users\Hüseyin\Desktop\142802011-142802029(Soru1)\142802011-142802029(Soru1)\obj\Debug\_142802011_142802029_Soru1_.frmKuyruk.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\bin\Debug\142802011-142802029(Soru1).exe.config
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).pdb
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\bin\Debug\142802011-142802029(Soru1).exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\bin\Debug\142802011-142802029(Soru1).pdb
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\obj\Debug\_142802011_142802029_Soru1_.frmKuyruk.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\obj\Debug\_142802011_142802029_Soru1_.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama1\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Kuyruk ve Sort Algoritmaları\Grup26_Uygulama1(Kuyruk)\142802011-142802029(Soru1)\bin\Debug\142802011-142802029(Soru1).exe.config
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Kuyruk ve Sort Algoritmaları\Grup26_Uygulama1(Kuyruk)\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Kuyruk ve Sort Algoritmaları\Grup26_Uygulama1(Kuyruk)\142802011-142802029(Soru1)\obj\Debug\142802011-142802029(Soru1).pdb

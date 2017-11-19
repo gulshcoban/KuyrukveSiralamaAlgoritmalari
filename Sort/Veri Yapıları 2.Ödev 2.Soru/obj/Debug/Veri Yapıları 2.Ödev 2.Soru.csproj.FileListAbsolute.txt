@@ -1,0 +1,15 @@
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\bin\Debug\Veri Yapıları 2.Ödev 2.Soru.exe.config
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\bin\Debug\Veri Yapıları 2.Ödev 2.Soru.exe
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\bin\Debug\Veri Yapıları 2.Ödev 2.Soru.pdb
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri_Yapıları_2.Ödev_2.Soru.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.exe
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.pdb
+C:\Users\Hüseyin\Desktop\Veri Yapıları 2.Ödev 2.Soru\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri_Yapıları_2.Ödev_2.Soru.frmCalismaZamani.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama2\Veri Yapıları 2.Ödev 2.Soru\bin\Debug\Veri Yapıları 2.Ödev 2.Soru.exe.config
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama2\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Yapıları Project 2\Grup26_Uygulama2\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.pdb
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Kuyruk ve Sort Algoritmaları\Grup26_Uygulama2(Sort)\Veri Yapıları 2.Ödev 2.Soru\bin\Debug\Veri Yapıları 2.Ödev 2.Soru.exe.config
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Kuyruk ve Sort Algoritmaları\Grup26_Uygulama2(Sort)\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Kuyruk ve Sort Algoritmaları\Grup26_Uygulama2(Sort)\Veri Yapıları 2.Ödev 2.Soru\obj\Debug\Veri Yapıları 2.Ödev 2.Soru.pdb
